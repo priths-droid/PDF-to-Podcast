@@ -1,0 +1,5 @@
+{
+  "name": "PDF to Podcast",
+  "description": "Convert PDF documents into interactive, customizable audio lessons.",
+  "requestFramePermissions": []
+}
